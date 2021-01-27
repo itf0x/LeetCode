@@ -26,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="2.中等\" />
     <Folder Include="3.困难\" />
   </ItemGroup>
 
