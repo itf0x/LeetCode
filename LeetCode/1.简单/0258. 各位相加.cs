@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection;
-using Xunit;
-using Xunit.Sdk;
+﻿using Xunit;
 
 namespace LeetCode
 {
     public class Question0258
     {
         /*
-         * 
+         * 给定一个非负整数 num，反复将各个位上的数字相加，直到结果为一位数。
          */
 
         [Theory]
